@@ -1,4 +1,4 @@
-![My keylogger](logo.png)
+![My keylogger](logo.jpg)
 
 # Description
 A simple keylogger that can bridge an airgapped system over near-ultrasonic frequencies using soundwaves to transmit data. The keylogger captures keystrokes on the target machine and transmits them via inaudible audio signals. The receiving machine only needs a microphone to capture and decode these signals.
